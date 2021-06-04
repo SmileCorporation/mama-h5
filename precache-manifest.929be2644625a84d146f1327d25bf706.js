@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9672cf5d86efe09bc898adec0d658636",
+    "revision": "da0d4b64da42c3b29f52c7cc01075b66",
     "url": "/mama-h5/index.html"
   },
   {
@@ -28,11 +28,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/css/adminIndex.cf7a6ede.css"
   },
   {
-    "revision": "149bf3e776acb6d3e683",
+    "revision": "492c5c738ea3e8c10bb6",
     "url": "/mama-h5/static/css/app.c819b619.css"
   },
   {
-    "revision": "87bb0daaa467aa9015f9",
+    "revision": "915a5de597a4d61e2359",
     "url": "/mama-h5/static/css/chunk-vendors.6f37a540.css"
   },
   {
@@ -44,8 +44,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/css/sourceManage.316425af.css"
   },
   {
-    "revision": "aaa908b170365bd35e78",
-    "url": "/mama-h5/static/css/toDo.a5b2c010.css"
+    "revision": "119f3758b594b46ab976",
+    "url": "/mama-h5/static/css/toDo.d259a454.css"
   },
   {
     "revision": "b065c379e7c921e064db415d01baf880",
@@ -76,12 +76,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/js/adminIndex.9cb81ae1.js"
   },
   {
-    "revision": "149bf3e776acb6d3e683",
-    "url": "/mama-h5/static/js/app.2ddba17c.js"
+    "revision": "492c5c738ea3e8c10bb6",
+    "url": "/mama-h5/static/js/app.eee31122.js"
   },
   {
-    "revision": "87bb0daaa467aa9015f9",
-    "url": "/mama-h5/static/js/chunk-vendors.2fae00bd.js"
+    "revision": "915a5de597a4d61e2359",
+    "url": "/mama-h5/static/js/chunk-vendors.1b87b5b5.js"
   },
   {
     "revision": "0b22368b045ae4050a38",
@@ -96,7 +96,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/js/sourceManage.56003c55.js"
   },
   {
-    "revision": "aaa908b170365bd35e78",
-    "url": "/mama-h5/static/js/toDo.ac528441.js"
+    "revision": "119f3758b594b46ab976",
+    "url": "/mama-h5/static/js/toDo.6308935a.js"
   }
 ]);
