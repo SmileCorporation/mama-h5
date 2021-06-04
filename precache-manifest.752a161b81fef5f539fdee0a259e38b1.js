@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ad39d5acb6a968d1190c3bebe361ddcd",
+    "revision": "9672cf5d86efe09bc898adec0d658636",
     "url": "/mama-h5/index.html"
   },
   {
@@ -24,11 +24,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/css/admin.c977c88d.css"
   },
   {
-    "revision": "9f16b288ec570749cb68",
-    "url": "/mama-h5/static/css/adminIndex.1c5339ad.css"
+    "revision": "8f73e1b276c7a4bb08c2",
+    "url": "/mama-h5/static/css/adminIndex.cf7a6ede.css"
   },
   {
-    "revision": "4bc905eee17412ee1c6e",
+    "revision": "149bf3e776acb6d3e683",
     "url": "/mama-h5/static/css/app.c819b619.css"
   },
   {
@@ -40,8 +40,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/css/myInfo.9e2ac674.css"
   },
   {
-    "revision": "9f9754d36bb095764dd0",
-    "url": "/mama-h5/static/css/sourceManage.14c04334.css"
+    "revision": "89e0682ac7972d813bd3",
+    "url": "/mama-h5/static/css/sourceManage.316425af.css"
   },
   {
     "revision": "aaa908b170365bd35e78",
@@ -72,12 +72,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/js/admin.36d63464.js"
   },
   {
-    "revision": "9f16b288ec570749cb68",
-    "url": "/mama-h5/static/js/adminIndex.1837c63d.js"
+    "revision": "8f73e1b276c7a4bb08c2",
+    "url": "/mama-h5/static/js/adminIndex.9cb81ae1.js"
   },
   {
-    "revision": "4bc905eee17412ee1c6e",
-    "url": "/mama-h5/static/js/app.9d566fa1.js"
+    "revision": "149bf3e776acb6d3e683",
+    "url": "/mama-h5/static/js/app.2ddba17c.js"
   },
   {
     "revision": "87bb0daaa467aa9015f9",
@@ -92,8 +92,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mama-h5/static/js/myInfo.a2d03f6c.js"
   },
   {
-    "revision": "9f9754d36bb095764dd0",
-    "url": "/mama-h5/static/js/sourceManage.b2a32a22.js"
+    "revision": "89e0682ac7972d813bd3",
+    "url": "/mama-h5/static/js/sourceManage.56003c55.js"
   },
   {
     "revision": "aaa908b170365bd35e78",

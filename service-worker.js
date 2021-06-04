@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mama-h5/precache-manifest.4f1632efac39e92b553b07af17b007c0.js"
+  "/mama-h5/precache-manifest.752a161b81fef5f539fdee0a259e38b1.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bcmama"});
